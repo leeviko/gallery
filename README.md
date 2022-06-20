@@ -1,2 +1,2 @@
 # gallery
-Done for school project
+Old project that I did for school
